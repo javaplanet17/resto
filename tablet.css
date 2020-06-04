@@ -1,0 +1,232 @@
+ @media(min-width:700px ) and (max-width: 999px){
+	.inner{
+		margin: 0px auto;
+		padding: 0px;
+		width: 98%;
+		height: 655px;
+	}
+	.left{
+		width: 60%;
+		height: 100%;
+		float: left;
+	}
+	.right{
+		width: 40%;
+		background: #f2f2f2;
+		height: 100%;
+		float: left;
+	}
+	li{
+		list-style: none;
+	}
+	h2{
+		font-size: 25px;
+	}
+	.supertitle{
+		font-size: 40px;
+		font-weight: bold;
+	}
+	.title{
+		font-size: 27px;
+		font-weight: bold;
+	}
+	.totaltitle{
+		font-size: 27px;
+		font-weight: bold;
+		margin-top: 15px;
+	}
+	.navtitle{
+		width: 62%;
+	}
+	.navsubtitle{
+		margin-left: 0px;
+		font-size: 16px;
+		width: 30%; 
+		text-align: right;
+		margin-top: 10px;
+		display: none !important;
+	}
+	.subtitle{
+		font-size: 18px;
+		width: 200px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.subtitles{
+		font-size: 18px;
+		width: 240px;
+		margin-top: 20px;
+		margin-bottom: 10px;
+	}
+	.tagtitle{
+		font-size: 17px;
+	}
+	.inline{
+		display: inline-block;
+		vertical-align: top;
+	}
+	.inliner{
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.navinline{
+		margin-right: 10px;
+		margin-left: 10px;
+	}
+	.nav{
+
+	}
+	.restaurantdescription{
+		height: 245px;
+	}
+	.salelist{
+		/*overflow-y: scroll;
+		height: 370px;*/
+	}
+	.list{
+		height: 385px;
+		overflow-y: scroll;
+	}
+
+	.foodbox{
+		width: 280px;
+		height: 300px;
+		background: white;
+		border: 1px solid grey;
+		box-shadow: 2px 2px grey;
+		margin: 10px;
+		padding: 10px;
+	}
+
+	.foodbox:hover{
+		box-shadow: 4px 4px grey;
+	}
+
+	.rightnav{
+		margin-top: 11px;
+	}
+	.leftnav{
+		width: 100%;
+	}
+	.contentnav{
+		margin-top: 30px;
+	}
+	.content{
+		padding-left: 10px;
+		margin-top: 20px;
+	}
+	.cartsubtitle{
+		font-weight: bold;
+		font-size: 17px;
+		margin-top: 10px;
+	}
+	.addressbox{
+		margin-top: 0px;
+		background: none;
+		border: none;
+		vertical-align: top;
+		padding-top: -10px;
+		text-align: left;
+		width: 80%;
+		height: 40px;
+		font-size: 16px;
+		border-radius: 6px;
+	}
+	.cartboxes{
+		margin-top: 10px;
+		height: 330px;
+		overflow-y: scroll;
+	}
+	.cartbox{
+		border-radius: 5px;
+		padding: 10px;
+		width: 80%;
+		height: 90px;
+		background: white;
+		margin: 20px 0px;
+		box-shadow: 2px 2px grey;
+	}
+	.cartbox:hover{
+		box-shadow: 4px 4px grey;
+	}
+	.cartboxleft{
+		width: 20%;
+		float: left;
+	}
+	.cartboxright{
+		width: 67%;
+		float: left;
+		padding-left:10px;
+	}
+	.cartboxdelete{
+		float: left;
+		width: 7%;
+	}
+	.carttitle{
+		font-size: 18px;
+		vertical-align: top;
+		width: 100%;
+	}
+	.cartdescription{
+		margin-top: 10px;
+		font-size: 15px;
+		width: 100%;
+	}
+	.cartdescriptionbox{
+		height: 36px;
+		margin-top: 0px;
+		font-size: 15px;
+	}
+	.checkoutbutton{
+		margin-top: 10px;
+		background: lime;
+		border: none;
+		border-radius: 4px;
+		color: black;
+		width: 80%;
+		height: 40px;
+		font-weight: bold;
+		font-family: times;
+		font-size: 20px;
+		box-shadow: 4px 4px grey;
+	}
+	.addcartbutton{
+		padding: 5px 15px;
+		border-radius: 4px;
+		background: lime;
+		color: #484848;
+		border:1px solid grey;
+		box-shadow: 3px 3px grey;
+		font-weight: bold;
+		font-size: 14px;
+	}
+	.deletebutton{
+		background: none;
+		border: none;
+		color: red;
+		font-weight: bold;
+	}
+	.typebutton{
+
+	}
+	.typebuttonimg{
+
+	}
+	.typebuttontext{
+		height: 20px; 
+		padding-top:5px;
+	}
+	.margin-tp{
+		margin: 10px 0px;
+	}
+	.margin-tp-5{
+		margin-bottom: -3px;
+	}
+	.margin-rt{
+		margin-right: 10px;
+	}
+	.price{
+		font-size: 22px;
+		font-weight: bold;
+	}
+}
